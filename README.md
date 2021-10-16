@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangliyi
 - 👀 I’m interested in ...
-- 🌱 C，python,html,js,css
+- 🌱 C/C++,Java,python,html,Javascript,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 tangliyi@aicloudstu.com
 
