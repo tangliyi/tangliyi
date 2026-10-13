@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tangliyi
 - 👀 I’m interested in ...
-- 🌱 C/C++,Java,python,html,Javascript,css
+- 🌱 C#,C/C++,Java,python,html,Javascript,css
 - 💞️ I’m looking to collaborate on ...
-- 📫 tangliyi@aicloudstu.com
+- 📫 services@aicloudstu.com
 
 <!---
 tangliyi/tangliyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
